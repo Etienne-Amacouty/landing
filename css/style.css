@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet")
+@import url("Components/container.css");
+@import url("Components/Avatar.css");
+@import url("Components/Button.css");
+@import url("Components/Banner.css");
+@import url("Components/card.css");
+
+
+body {
+	font-family: Lora, serif;
+	font-size: 18px;
+	text-align: justify;
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-family: "Roboto Mono", monospace;
+	font-weight: bold;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: black;
+}
+
